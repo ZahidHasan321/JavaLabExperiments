@@ -16,7 +16,7 @@ public class TestApp {
             case 4: app.sortString();
                     break;
             default:
-                System.out.println("Input a number between 1 and 4");
+                System.out.println("ERROR!!Input a number between 1 and 4");
         }
     }
 }
